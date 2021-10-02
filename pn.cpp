@@ -1,3 +1,5 @@
+// program to perform operations on tables using functions only
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
